@@ -5,8 +5,8 @@
 <main>
     <section class="hero bg-primary text-white">
       <div class="container">
-        <h1 class="display-4">Sobre nosotros</h1>
-        <p class="lead">Descubre cómo estamos transformando el mundo de las criptomonedas.</p>
+        <h1 class="display-4 d-flex justify-content-center">Sobre nosotros</h1>
+        <p class="lead d-flex justify-content-center p-2">Aprende un poco más sobre nuestra empresa</p>
       </div>
     </section>
     <section>
@@ -17,17 +17,27 @@
       
         </div>
     </section>
+    <section class="hero bg-primary text-white">
+      <div class="container">
+        <h2 class="display-4 d-flex justify-content-center">Nuestra misión</h2>
+        <p class="lead d-flex justify-content-center p-2">Descubre cómo estamos transformando el mundo de las criptomonedas.</p>
+      </div>
+    </section>
     <section class="py-5">
       <div class="container">
-        <h2 class="mb-4">Nuestra misión</h2>
         <p>Somos una plataforma dedicada a brindar información actualizada y confiable sobre el valor de las criptomonedas más populares. Nuestro objetivo principal es ayudar a los usuarios a tomar decisiones informadas y seguir el emocionante mundo de las criptomonedas de manera segura.</p>
         <p>Estamos comprometidos a proporcionar datos precisos y en tiempo real, así como a ofrecer una experiencia de usuario intuitiva y accesible para todos los niveles de conocimiento en criptomonedas.</p>
         
       </div>
     </section>
+    <section class="hero bg-primary text-white">
+      <div class="container">
+        <h2 class="display-4 d-flex justify-content-center">El equipo detrás de todo</h2>
+        <p class="lead d-flex justify-content-center p-2">Conoce a nuestros profesionales que hacen que Cryptosearch crezca cada día.</p>
+      </div>
+    </section>
     <section class="bg-light py-5">
       <div class="container">
-        <h2 class="mb-4">Nuestro equipo</h2>
         <div class="row">
           <div class="col-md-4">
             <div class="card mb-4">

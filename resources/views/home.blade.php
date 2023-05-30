@@ -4,7 +4,7 @@
 @section('content')
     <main class="container my-5">
         <section>
-        <h2>Seleccione una criptomoneda</h2>
+        <h2 class="d-flex justify-content-center">Seleccione una criptomoneda</h2>
         <form>
             <div class="form-group">
             <label for="criptomoneda">Criptomoneda:</label>
@@ -18,7 +18,7 @@
         </form>
         </section>
         <section>
-        <h2>Valor actual de la criptomoneda seleccionada</h2>
+        <h2 class="d-flex justify-content-center">Valor actual de la criptomoneda seleccionada</h2>
         <p>El valor actual de la criptomoneda seleccionada es: <span id="valor"></span></p>
         <canvas id="myChart" width="400" height="400"></canvas>
         </section>
